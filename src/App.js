@@ -1,11 +1,11 @@
 import React from "react";
 import "./App.css";
-import Disney from "./Disney";
+import Donald from "./Donald";
 
 function App() {
   return (
     <div>
-      <Disney />
+      <Donald />
     </div>
   );
 }
